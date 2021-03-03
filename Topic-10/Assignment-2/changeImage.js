@@ -1,7 +1,7 @@
 function mouseover() {
-  document.getElementById("ori").src = "Img2.jpg";
+  document.getElementById("ori").src = "images/Img2.jpg";
 }
 
 function mouseout() {
-  document.getElementById("ori").src = "Img1.jpg";
+  document.getElementById("ori").src = "images/Img1.jpg";
 }
