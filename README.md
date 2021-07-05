@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 
 <h1><a href="https://2kabhishek.github.io/Trend.Nxt-JavaScript-L1">Trend.Nxt-JavaScript-L1</a></h1>
 
@@ -23,79 +23,43 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for JavaScript L1 problems 🌐💯</h2>
 
 </div>
-
-## Inspiration
-
-Trend.Nxt-JavaScript-L1 was inspired by `<reason/idea>`.
-
-## What it does
-
-Trend.Nxt-JavaScript-L1 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed any `modern web browser`
 
-## Installing Trend.Nxt-JavaScript-L1
+## Get Trend.Nxt-JavaScript-L1
 
-To install Trend.Nxt-JavaScript-L1, follow these steps:
+To clone Trend.Nxt-JavaScript-L1, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/Trend.Nxt-JavaScript-L1
 cd Trend.Nxt-JavaScript-L1
-<install_command>
 ```
 
 ## Using Trend.Nxt-JavaScript-L1
 
+Use this for your reference, all code is placed under `Assignments` directory, once you have any `modern web browser` installed you can edit and run these locally.
+
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+cd Assignments/
+edit index.html # Edit
+open index.html # Preview
 ```
 
-## How it was built
-
-Trend.Nxt-JavaScript-L1 was built using `<tech/library>`
-
-## Challenges faced
-
-While building Trend.Nxt-JavaScript-L1 the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building Trend.Nxt-JavaScript-L1 I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Add colors to the UI, a configuration management system.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
 
 <a href="https://github.com/2KAbhishek/Trend.Nxt-JavaScript-L1">Source</a> |
 <a href="https://2kabhishek.github.io/Trend.Nxt-JavaScript-L1">Website</a>
